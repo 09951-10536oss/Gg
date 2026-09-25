@@ -1,0 +1,1 @@
+class Bird{constructor(x,y,t='red'){this.x=x;this.y=y;this.type=t;this.r=16;this.vx=0;this.vy=0;}}

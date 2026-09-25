@@ -1,0 +1,1 @@
+function popup(text){console.log(text)}

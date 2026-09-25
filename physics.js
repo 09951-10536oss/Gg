@@ -1,0 +1,1 @@
+function dist(a,b,c,d){return Math.hypot(a-c,b-d)}

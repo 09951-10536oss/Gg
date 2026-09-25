@@ -1,0 +1,1 @@
+playBtn.onclick=()=>{menu.classList.add('hidden');game.classList.remove('hidden');startGame();};
